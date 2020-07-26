@@ -1,0 +1,10 @@
+[ODBC]
+DRIVER=ODBC Driver 17 for SQL Server
+UID=olaf
+TrustServerCertificate=No
+DATABASE=TestDB
+WSID=I3-2120
+APP=Microsoft Office
+Trusted_Connection=No
+SERVER=jung68sql.database.windows.net
+Description=Azure TestDB
